@@ -1,5 +1,4 @@
 # hello-world
-my github intro
 <body>
 <h1>My name is Thaddeus Dixon <h1>
 
